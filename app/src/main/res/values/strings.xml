@@ -1,0 +1,207 @@
+<resources>
+    <string name="app_name">FilmingApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">FilmingApp</string>
+    <string name="nav_header_subtitle">El mejor catálogo de películas</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_peliculas">Películas</string>
+    <string name="menu_series">Series</string>
+
+    <string name="btnVolver">Volver</string>
+    <string name="btnSiguiente">Siguiente</string>
+    <string name="btnAnterior">Anterior</string>
+
+
+    <string name="director">Director</string>
+    <string name="reparto">Reparto</string>
+    <string name="sinopsis">Sinopsis</string>
+
+    <string name="titulo_pelicula1">Warhorse</string>
+
+    <string name="director_pelicula1">Steven Spielberg</string>
+
+    <string name="reparto_pelicula1">Jeremy Irvine\n
+               Emily Watson\n
+               David Thewlis\n
+               Peter Mullan\n
+               Niels Arestrup\n
+               Benedict Cumberbatch\n
+               Tom Hiddleston\n
+               Eddie Marsan\n
+               Toby Kebbell\n
+               David Kross</string>
+    <string name="sinopsis_pelicula1">En un pueblo inglés, Albert, el hijo de un granjero, ve nacer un potrillo. Poco después, su padre
+                       lo adquiere en una subasta, y el chico le pone de nombre Joey. Pero la familia se arruina y no tiene
+                       más remedio que vender el caballo justo cuando estalla la Primera Guerra Mundial (1914-1918). Ése es el
+                       punto de partida de un viaje
+                       en el que tanto Albert como Joey lucharán por sobrevivir a la contienda y volver a estar juntos.</string>
+
+    <string name="titulo_pelicula2">El lobo de Wall Street</string>
+    <string name="director_pelicula2">Martin Scorsese</string>
+    <string name="reparto_pelicula2">Reparto: \n
+                        Jordan Belfort \n
+                        Jonah Hill \n
+                        Margot Robbie \n
+                        Matthew McConaughey \n
+                        Kyle Chandler \n
+                        Rob Reiner \n</string>
+    <string name="sinopsis_pelicula2">Sinopsis: \n
+                        Película basada en hechos reales del corredor de bolsa neoyorquino Jordan Belfort
+                        (Leonardo DiCaprio). A mediados de los años 80, Belfort era un joven honrado que
+                        perseguía el sueño americano, pero pronto en la agencia de valores aprendió que lo más
+                        importante no era hacer ganar a sus clientes, sino ser ambicioso y ganar una buena comisión.
+                         Su enorme éxito y fortuna le valió el mote de “El lobo de Wall Street”. Dinero. Poder.
+                        Mujeres. Drogas. Las tentaciones abundaban y el temor a la ley era irrelevante.
+                        Jordan y su manada de lobos consideraban que la discreción era una cualidad anticuada;
+                        nunca se conformaban con lo que tenían"</string>
+
+    <string name="titulo_pelicula3">Mision Imposible 5</string>
+    <string name="director_pelicula3">Christopher McQuarrie</string>
+    <string name="reparto_pelicula3">Tom Cruise\n
+        Jeremy Renner\n
+        Simon Pegg\n
+        Ving Rhames\n
+        Rebecca Ferguson\n
+        Sean Harris\n
+        Alec Baldwin\n
+        Jens Hultén</string>
+    <string name="sinopsis_pelicula3">Con la FMI disuelta y Ethan Hunt (Tom Cruise) abandonado a su
+        suerte, el equipo tiene que enfrentarse contra el Sindicato, una red de agentes especiales
+        altamente preparados y entrenados. Estos grupos están empeñados en crear un nuevo orden
+        mundial mediante una serie de ataques terroristas cada vez más graves. Ethan reúne a su
+        equipo y une sus fuerzas con la agente británica renegada Ilsa Faust (Rebecca Ferguson),
+        quien puede que sea o no miembro de esta nación secreta, mientras el grupo se va enfrentando
+        a su misión más imposible hasta la fecha. Quinta entrega de la saga Misión Imposible.</string>
+
+    <string name="titulo_pelicula4">Scarface</string>
+    <string name="director_pelicula4">Brian de Palma</string>
+    <string name="reparto_pelicula4">Al Pacino</string>
+    <string name="sinopsis_pelicula4">Tony Montana es un emigrante cubano frío e implacable que se
+        instala en Miami con el propósito de convertirse en un gángster importante, y poder así ganar
+        dinero y posición. Con la colaboración de su amigo Manny Rivera inicia una fulgurante carrera
+        delictiva, como traficante de cocaína, con el objetivo de acceder a la cúpula de una
+        organización de narcos.</string>
+
+    <string name="titulo_pelicula5">Spirit</string>
+    <string name="director_pelicula5">Kelly Asbury, Lorna Cook</string>
+    <string name="reparto_pelicula5">Spirit</string>
+    <string name="sinopsis_pelicula5">En el lejano Oeste, Spirit es un mustang salvaje que cabalga
+        por las praderas. Pero todo cambia cuando los hombres se cruzan en su camino.</string>
+
+    <string name="titulo_seri1">Peaky Blinders</string>
+   <string name="director_serie1">Tom Harper</string>
+    <string name="reparto_serie1">
+        Cillian Murphy\n
+        Sam Neill\n
+        Helen McCrory\n
+        Paul Anderson\n
+        Annabelle Wallis\n
+        Sophie Rundle\n
+        Joe Cole\n
+        Ned Dennehy\n
+        Benjamin Zephaniah\n
+        Tom Hardy</string>
+    <string name="sinopsis_serie1">Peaky Blinders es una serie de televisión
+        inglesa de drama histórico, emitida por el canal BBC Two. La serie está
+        protagonizada por Cillian Murphy y se centra en una familia de gánsteres
+        de Birmingham, durante los años veinte y del ascenso de su jefe, Thomas
+        Shelby, un mafioso que dominará toda Inglaterra, después de afrontar una
+        terrible guerra.</string>
+
+
+    <string name="titulo_seri2">Vikingos</string>
+    <string name="director_serie2">Michael Hirst</string>
+    <string name="reparto_serie2">
+        Travis Fimmel\n
+        Katheryn Winnick\n
+        Clive Standen\n
+        Jessalyn Gilsig\n
+        Gustaf Skarsgård\n
+        Gabriel Byrne\n
+        George Blagden\n
+        Donal Logue\n
+        Alyssa Sutherland\n
+        Kevin Durand</string>
+    <string name="sinopsis_serie2">
+        Vikings está inspirada en las sagas del vikingo Ragnar Lodbrok, uno de los
+        héroes nórdicos legendarios más conocidos y notorio como el flagelo de
+        Inglaterra y Francia. El programa retrata a Ragnar como un granjero que
+        ha conseguido construir barcos revolucionarios con instrumentos de
+        navegación también revolucionarios. Con ellas puede hacer exitosas
+        incursiones en Inglaterra, alcanzar la fama y convertirse en un rey
+        escandinavo, con la ayuda de su familia y sus guerreros. En las últimas
+        temporadas, la serie sigue la fortuna de sus hijos y sus aventuras en
+        Inglaterra, Escandinavia y el Mediterráneo.
+    </string>
+
+    <string name="titulo_serie3">SUITS</string>
+    <string name="director_serie3">	Aaron Korsh</string>
+    <string name="reparto_serie3">
+        	Gabriel Macht\n
+        Patrick J. Adams\n
+        Rick Hoffman\n
+        Meghan Markle\n
+        Sarah Rafferty\n
+        Gina Torres\n
+        Amanda Schull\n
+        Dulé Hill\n
+        Rebecca Schull\n
+        Katherine Heigl\n
+    </string>
+    <string name="sinopsis_serie3">La serie es protagonizada por Gabriel Macht y
+        Patrick J. Adams, quienes interpretan los personajes de Harvey Specter y
+        Mike Ross respectivamente. Mike es un inteligente estudiante que ha dejado
+        la universidad, pero que es contratado por el brillante Harvey Specter
+        para trabajar en una firma de abogados a pesar de no ser graduado en derecho.
+        La serie trata de cómo estos dos abogados resuelven casos al mismo tiempo
+        que mantienen a salvo el secreto de Mike</string>
+
+
+    <string name="titulo_serie4">Prison Break</string>
+    <string name="director_serie4">Paul Scheuring</string>
+    <string name="reparto_serie4">	Dominic Purcell
+        Wentworth Miller\n
+        Robin Tunney\n
+        Peter Stormare\n
+        Amaury Nolasco\n
+        Marshall Allman\n
+        Wade Williams\n
+        Paul Adelstein\n
+        Sarah Wayne Callies\n
+        Robert Knepper\n
+        Chris Vance</string>
+    <string name="sinopsis_serie4">Prison Break es una serie de televisión dramática estadounidense creada por Paul Scheuring y estrenada el 29 de agosto de 2005.
+
+La trama de la serie gira en torno a Michael Scofield, que en un elaborado plan
+        para rescatar a su hermano Lincoln Burrows, entra a "Fox River" una
+        cárcel de máxima seguridad cerca de Chicago, para sacar a su hermano
+        acusado por un falso asesinato del hermano de la vicepresidenta.</string>
+
+    <string name="titulo_serie5">Fariña</string>
+    <string name="director_serie5">Ramón Campos</string>
+    <string name="reparto_serie5">	Javier Rey
+        Tristán Ulloa\n
+        Antonio Durán “Morris”\n
+        Carlos Blanco\n
+        Manuel Lourenzo\n
+        Xosé Antonio Touriñán\n
+        Isabel Naveira\n
+        Xulio Abonjo\n
+        Tamar Novas\n
+        </string>
+    <string name="sinopsis_serie5">Ambientada en la Galicia de los años 80, momento
+        en el que muchos pescadores gallegos se encontraban llenos de deudas y sin
+        un puesto de trabajo. Sito Miñanco, un pescador con destreza manejando la
+        lancha, se inicia en el contrabando de tabaco de la mano de Terito
+        (Vicente Otero Pérez), el jefe de los clanes de la ría de Arosa.
+        Después se establece por su cuenta con otros dos amigos.
+        Para burlar la vigilancia aduanera, sobornan a una patrulla con var
+        ias cajas de Winston.</string>
+
+
+
+</resources>
